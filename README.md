@@ -6,4 +6,4 @@
 
 https://rape.konnokai.me
 
-https://github.com/ASAKA-219/beast_senpai_pianogame/main/index.html
+https://github.com/ASAKA-219/beast_senpai_pianogame/blob/main/index.html
