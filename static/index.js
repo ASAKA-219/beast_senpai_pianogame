@@ -502,7 +502,7 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
                 _gameSettingNum = 20;
                 $('#gameTime').val('');
                 cookie('gameTime', 20);
-                alert('秒數必須為數字，且不可低於 0，已自動修正遊戲時間為 20 秒')
+                alert('秒数の表示には数字が必要なので，0より低い数字はダメです，自動でプレイ時間を20 秒に戻しました。')
             }
 
             $('#gameTime').val(cookie('gameTime'));
